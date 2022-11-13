@@ -1,0 +1,36 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 10px 0;
+   
+
+ 
+    }
+    .Login form {
+      margin: 0 auto;
+      max-width: 450px;
+   
+
+    }
+   
+}
+.btn-flat {
+      background-color: #85929E;
+      color: black;
+}
+
+.texto{
+font-size: smaller;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: lighter;
+color: #73879C;
+
+
+}
+  
+
+  
+
+ 
+    
+    
+    

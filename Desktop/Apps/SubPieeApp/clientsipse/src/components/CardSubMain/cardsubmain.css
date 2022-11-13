@@ -1,0 +1,27 @@
+
+.cardsubmain:hover{
+    box-shadow: 5px 10px 20px 1px rgba( 106, 30, 214, 0.273) !important;
+    transition: all 0.34s linear;
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    background: #83a4d4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #b6fbff, #83a4d4);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #b6fbff, #83a4d4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   }
+
+.card-body-submain{
+    padding:  2rem  0  !important;  
+}
+
+.card-text{
+    padding: 0.3rem 1rem;
+    font-size: 1.1rem;
+}
+
+.fondo{
+    background: rgb(237, 241, 250);
+}
+
+.btn-flat-submain {
+    background-color: #557153;
+    color: white;
+}

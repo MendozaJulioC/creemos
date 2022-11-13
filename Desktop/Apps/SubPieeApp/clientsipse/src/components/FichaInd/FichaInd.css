@@ -1,0 +1,60 @@
+.fieldset1 {
+    border: 2px solid rgb(15, 109, 178);
+    -moz-border-radius: 5px;
+    -webkit-border-radius:10px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+.fieldset2{
+    border: 2px solid rgb(142, 68, 173);
+    -moz-border-radius: 5px;
+    -webkit-border-radius:10px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+.fieldset3{
+    border: 2px solid rgb(98, 142, 144);
+    -moz-border-radius: 5px;
+    -webkit-border-radius:10px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+
+.fieldset4{
+    border: 2px solid rgb(127, 22, 180);
+    -moz-border-radius: 5px;
+    -webkit-border-radius:10px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+
+.fieldset5{
+    border: 2px solid rgb(241, 196, 15);
+    -moz-border-radius: 5px;
+    -webkit-border-radius:10px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+}
+
+.legenda{
+    margin-bottom: 0rem;
+    margin-left: 12px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.legend1{
+    margin-bottom: 0rem;
+    margin-left: 12px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.legendtablesubtitle{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 12px;
+    font-size: 12px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
