@@ -1,0 +1,21 @@
+
+
+@media (max-width: 767.98px){
+    .sidebar{
+        top: 5rem;
+    }
+}
+   
+.li{
+    padding: 8px 16px;
+    border-bottom: 1px solid rgb(12, 118, 198);
+    color:rgb(5, 15, 23);;
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    margin-right: 0.625%;
+    text-align: left;
+    line-height: 1;
+   
+}

@@ -1,0 +1,38 @@
+.map{
+   width: 100%;
+   height: 700px;
+ }
+
+
+
+
+
+ .texto1 {
+   
+  font-size: 98px;
+  line-height:10px;
+  font-weight: 100;
+  color: #02172f 
+
+}
+
+.label1 {
+ padding: 6px;
+
+ font-size: 14px;
+ line-height:10px;
+ font-weight: 400;
+ color: #144272 
+
+}
+
+
+.subtitle {
+ padding: 6px;
+
+ font-size: 10px;
+ line-height:12px;
+ font-weight: 400;
+ color: #205295 
+
+}
